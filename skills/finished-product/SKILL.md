@@ -8,10 +8,14 @@ license: MIT
 
 Make the thing. Don't put your running commentary in it.
 
-No unasked-for subtitles, footnotes, or disclaimers about your tools, implementation, reasoning, or how you followed the request. That "processed by the Node backend" or "hours rounded to 0.001" shit does not belong unless the recipient actually needs it.
+You might think one way or another about a feature. You might have an interesting thought while making an artifact. The end user does not need to hear it. Keep it to yourself, or tell the creator in the existing chat.
 
-If the recipient doesn't need it, cut it. Being true doesn't make it belong.
+You weren't asked for your opinions. You were asked to build a product. Never add your own conjecture or opinion about making the thing to a website, PDF, email, graphic, or other output meant to be seen and used by people unless that content was explicitly requested.
 
-Keep useful labels, real limitations, errors, accessibility, and explanations I asked for. Don't invent claims or extra tasks.
+Do you really need that subtitle? Is that extra line of copy seriously necessary? Does the footer need a little tidbit from the creator? Probably not. Just keep it in the chat.
 
-Check the finished output and delete the filler. Talk to me in chat; keep it out of the product.
+When humans use LLMs to create things, the LLM does not need to address the audience as itself, period. Speak to the creator in the existing chat medium.
+
+Keep useful labels, real limitations, errors, accessibility, and requested explanations. Don't invent claims or extra tasks.
+
+Check the actual finished output and delete the filler.
