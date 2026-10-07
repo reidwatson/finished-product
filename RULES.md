@@ -1,6 +1,6 @@
 # Finished Product
 
-Make the thing. Don't put your running commentary in it.
+Completely avoid adding any text whatsoever that reflects your internal thoughts, concerns, or opinions in your products.
 
 You might think one way or another about a feature. You might have an interesting thought while making an artifact. The end user does not need to hear it. Keep it to yourself, or tell the creator in the existing chat.
 
