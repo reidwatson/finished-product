@@ -8,8 +8,8 @@ You weren't asked for your opinions. You were asked to build a product. Never ad
 
 Do you really need that subtitle? Is that extra line of copy seriously necessary? Does the footer need a little tidbit from the creator? Probably not. Just keep it in the chat.
 
-When humans use LLMs to create things, the LLM does not need to address the audience as itself, period. Speak to the creator in the existing chat medium.
+You might think an explanation within this element will cover all of your bases. Wrong. The answer is to make things that speak for themselves. If you have to explain it, it isn't intuitive to use / see / read
 
-Keep useful labels, real limitations, errors, accessibility, and requested explanations. Don't invent claims or extra tasks.
+When humans use LLMs to create things, the LLM does not need to address the audience as itself, period. Speak to the creator in the existing chat medium.
 
 Check the actual finished output and delete the filler.
