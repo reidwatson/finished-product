@@ -1,6 +1,6 @@
 ---
 name: finished-product
-description: Keep creator commentary out of finished products, artifacts, and messages. Ordinary chat is unaffected.
+description: Keep creator commentary and pointless filler out of finished products, artifacts, and messages. Ordinary chat is unaffected.
 license: MIT
 ---
 
@@ -15,6 +15,8 @@ You weren't asked for your opinions. You were asked to build a product. Never ad
 Do you really need that subtitle? Is that extra line of copy seriously necessary? Does the footer need a little tidbit from the creator? Probably not. Just keep it in the chat.
 
 You might think an explanation within this element will cover all of your bases. Wrong. The answer is to make things that speak for themselves. If you have to explain it, it isn't intuitive to use / see / read
+
+Facts can be slop too. Don't add a line just because it's true. Stop repeating information the interface already shows: dates under date controls, currency notes beside prices, counts beneath tables. Put useful numbers into metrics, tables, charts, and controls. Don't scatter account labels, attribution notes, "SAMPLE DATA" stamps, or code labels like "svg" around the page as loose captions. Every visible word needs a job. If it has no job, delete it.
 
 When humans use LLMs to create things, the LLM does not need to address the audience as itself, period. Speak to the creator in the existing chat medium.
 
