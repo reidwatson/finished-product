@@ -1,6 +1,6 @@
 ---
 name: finished-product
-description: Keep creator commentary and pointless filler out of finished products, artifacts, and messages. Build usable tables. Ordinary chat is unaffected.
+description: Keep creator commentary and pointless filler out of finished products, artifacts, and messages. Show information visually instead of in text. Build usable tables. Use for any UI or UX work. Ordinary chat is unaffected.
 license: MIT
 ---
 
@@ -21,6 +21,16 @@ Facts can be slop too. Every bit of text must be absolutely essential to the pro
 When humans use LLMs to create things, the LLM does not need to address the audience as itself, period. Speak to the creator in the existing chat medium.
 
 Inspect the whole finished product, including repeated cards, rows, and states. Don't just remove phrases the user flagged. Find the same failure everywhere. Delete every word that isn't absolutely essential.
+
+## Show, don't write
+
+LLMs work with text, so they reach for text. Humans just want to see the information and intuit what it's saying. Text is the last resort for conveying information, especially numbers.
+
+Start with what the user is trying to do on the page. That action leads, and the page directs them to it. Everything else is visual and secondary. It should feel like a dashboard.
+
+Every value has a natural shape. Before writing a value as words, find the visual indicator that fits that specific value and design it in. Relationships between things show through typography, grouping, and position, not a line of text the user has to decode.
+
+If something isn't clear, fix the design, not the copy. UI work isn't done until the UX is good.
 
 ## Tables
 
