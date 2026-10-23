@@ -26,6 +26,12 @@ Every value has a natural shape. Before writing a value as words, find the visua
 
 If something isn't clear, fix the design, not the copy. UI work isn't done until the UX is good.
 
+## Settings and metrics
+
+A value is shown before it is edited. Never render saved settings as permanently open inputs: read mode shows each value in its natural form, ideally drawn into the thing it controls, and an explicit Edit action turns them into fields. Edit mode shows what will change before it is saved (the new value beside the current one, a preview drawn over the current state), then Save or Cancel returns to read mode. Inputs that sit open on every visit read as unfinished and invite accidental changes.
+
+A row of large numbers in identical cards is not a visualization. It means the numbers were not understood. Before placing any metric, ask what it is part of and what it is compared with: counts that sum to a population are one stacked bar or a funnel, activity over time is a series, a level is judged against its target or its previous value. Put a number in a card only when it is a single headline value with its change, and never repeat that card four times across the page.
+
 ## Tables
 
 A table is not a pile of text. Decide what each column means before building it. One record per row. One field per column. One value per cell. No stacked facts or fake second rows.
