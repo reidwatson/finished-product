@@ -8,6 +8,7 @@ Keep creator commentary out of the product.
 | [show-dont-write](skills/show-dont-write) | Interfaces that show information instead of writing it |
 | [tables](skills/tables) | Tables people can read and use |
 | [charts](skills/charts) | Charts that answer one question honestly |
+| [copywriting](skills/copywriting) | Copy that makes a specific buyer act |
 
 `finished-product` stands alone. Add the others for UI work.
 
